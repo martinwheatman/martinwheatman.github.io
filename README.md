@@ -5,9 +5,9 @@
     <p>Arithmetic uses numbers and symbols to describe calculation, so ‘1+2’ can be read as ‘one plus two’ to obtain ‘3’. Here, it is not of interest how this answer is achieved, whether the computer is you or a desk calculator.</p>
     <details>
         <summary style="font-size:2vw;">Arithemtic</summary>
-            <p>There are only a limited number of symbols—plus, minus, equals, and so on—but there are infinite numbers to which they can be applied. Further, these symbols can be constructed from each other, for example, times is the repetition of plus, so ‘3✕2’ is the same as ‘2+2+2’.
-            <p>Peano and Dedekind show that arithmetic is based upon plus and minus. Presenting a set number of calculations in a particular order—an algorithm—allows an arbitrary calculation—computation—to be achieved.
-    </details>
+            <p>There are only a limited number of symbols—plus, minus, equals, and so on—but there are infinite numbers to which they can be applied. Further, these symbols can be constructed from each other, for example, times is the repetition of plus, so ‘3✕2’ is the same as ‘2+2+2’.</p>
+            <p>Peano and Dedekind show that arithmetic is based upon plus and minus. Presenting a set number of calculations in a particular order—an algorithm—allows an arbitrary calculation—computation—to be achieved.</p>
+        </details>
     <details>
         <summary style="font-size:2vw;">A Functional Notation</summary>
             <p>In order to expand the number of operations available, without having to memorise more symbols and their operations, a written representation of algorithms, a functional notation, can be used. </p>
@@ -35,36 +35,35 @@
         <p>Central to Turing’s idea is that his squares are organised into pairs, one holding a letter to mark its pair, which holds a 1 or 0, for writing or reading. He described this <q>convention of writing the figures only on alternate squares is very useful: I shall always make use of it.</q> [Turing, pp. 235] The beginning of this tape is a pair containing dots.
         <p>Fig. 2. Turing’s Endless Tape, starting at a double dot.
         <p>This representation, however, is one of dualism, not because it is organised in pairs but, because the pair describe two different forms: a marker square is concerned with marking a square within the tape, it is concerned with the structure of the representation, whereas the data square contains a value which is concerned with the problem domain. This dualist mechanism was taken up in the von Neumann architecture and first manifested in the Manchester Baby, the first electronically stored program computer.
+        </p>
+        </details>
     </details>
-</details>
 <hr>
 
 <details>
-<summary style="font-size:3vw;">
-    Dualism vs. Monism
-    </summary>
-</details>
+    <summary style="font-size:3vw;">Dualism vs. Monism</summary>
+    Some details go here...
+    </details>
 <hr>
 
 <details>
-<summary style="font-size:3vw;">
-    So, what is Machine Understanding?
-    </summary>
+    <summary style="font-size:3vw;">So, what is Machine Understanding?</summary>
     <p style="font-size:2vw;">
         Machine understanding is: <q style="font-style:italic;"><strong>the conveyance of ideas to, and their subsequent use in interacting with, a machine</strong></q>.
         </p>
-</details>
+    </details>
 <hr>
 
 
 <details>
-<summary style="font-size:3vw;">
-    ...and this is demonstrated somewhere?
-    </summary>
+    <summary style="font-size:3vw;">...and this is demonstrated somewhere?</summary>
     <p style="font-size:2vw;">
-        The Enguage source code is available from <a href="">Machine understanding is: <samp>the conveyance of ideas to, and their subsequent use in interacting with, a machine</samp></a>.
+        The Enguage source code is available from
+        <a href="https://bitbucket.org/martinwehatman/enguage">
+            <samp>https://bitbucket.org/martinwehatman/enguage</samp>
+            </a>.
         </p>
-</details>
+    </details>
 <hr>
 
 
